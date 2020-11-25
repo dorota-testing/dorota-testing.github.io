@@ -1,0 +1,14 @@
+body {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #333;
+  background-image: url('assets/img/linkedin-sales-navigator-0QvTyp0gH3A-unsplash.jpg');
+  background-repeat: repeat-y;
+  background-position: center;
+}
+.opaque-background {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  background-color: #ffffff;
+  opacity: 0.8;
+}
