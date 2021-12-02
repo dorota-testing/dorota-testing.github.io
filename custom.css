@@ -4,10 +4,10 @@ body {
   background-color: #333;
   background-image: url('assets/img/linkedin-sales-navigator-0QvTyp0gH3A-unsplash.jpg');
   background-repeat: repeat-y;
-  background-position: center;
+  background-position: center top;
 }
 .opaque-background {
-  padding: 3rem 1.5rem;
+  padding: 3rem 6rem;
   background-color: #ffffff;
   opacity: 0.8;
 }
@@ -20,4 +20,7 @@ span.indent {
 }
 p {
   margin-bottom: 4px;
+}
+.lead small {
+  font-weight: 300;
 }
